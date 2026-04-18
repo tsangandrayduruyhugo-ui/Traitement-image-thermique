@@ -23,7 +23,7 @@ Ce projet consiste à traiter des images thermiques et à extraire des profils d
 - Analyse statistique
 - Détection des anomalies thermiques
 
-## 🔬 Application en génie mécanique
+##  Application en génie mécanique
 - Surveillance des machines
 - Analyse des pertes de chaleur
 - Détection de défauts
