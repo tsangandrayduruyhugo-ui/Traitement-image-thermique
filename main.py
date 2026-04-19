@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 1. Charger image thermique
-image = cv2.imread("image thermique.png")
+image = cv2.imread("image thermique2.png")
 
 if image is None:
     print("Erreur : image non trouvée")
